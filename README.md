@@ -4,7 +4,7 @@
 
 I'm Altuğ from Turkey. I'm currently studying at 42 Istanbul. I enjoy solving problems and creating algorithms. I'm also very much into game developing and designing.
 
-# My Works
+Here is some of my works:
 
 ## [GASERB](store.steampowered.com/app/1725990/GASERB)
 
