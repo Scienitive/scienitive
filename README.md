@@ -6,7 +6,7 @@ I'm Altuğ from Turkey. I'm currently studying at 42 Istanbul. I enjoy solving p
 
 Here is some of my works:
 
-## **[GASERB](shorturl.at/tCHU8)**
+## <a href="https://store.steampowered.com/app/1725990/GASERB">GASERB</a>
 
 My first full released game. A puzzle game where the rules of game changes as you play it. Can be a little frustrating time to time but if you like challenging puzzle games I suggest you to try it. It's free.
 
