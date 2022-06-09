@@ -18,11 +18,10 @@ My first full released game. A puzzle game where the rules of game changes as yo
 
 I make games for game jams from time to time. You can see my work through my itch.io address.
 
-I have a [`Youtube Page`](youtube.com/channel/UCLd6u5OLoLwP-pFv9mLiucQ) where I post the gameplay of my games and the music that I made. You can check there too.
+I have a **[`Youtube Page`](youtube.com/channel/UCLd6u5OLoLwP-pFv9mLiucQ)** where I post the gameplay of my games and the music that I made. You can check there too.
 
 ## My 42cursus Projects
 
 I also share the projects that I made for my school. You can check them out from my Github.
 
-You can reach me from my Mail Address or [Twitter](https://twitter.com/scienitive).
-**[Boost](https://www.boost.org/)**
+You can reach me from my Mail Address or **[Twitter](https://twitter.com/scienitive)**.
