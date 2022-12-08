@@ -16,7 +16,7 @@ My first full released game. A puzzle game where the rules of game changes as yo
 
 ## [My Game Jam Works](https://scienitive-games.itch.io/)
 
-![dicearena2.gif](https://github.com/Scienitive/scienitive/blob/main/dicearena2.gif)
+![dicearena3.gif](https://github.com/Scienitive/scienitive/blob/main/dicearena3.gif)
 
 I make games for game jams from time to time. You can see my work through **<a href="https://scienitive.itch.io">my itch.io address</a>**.
 
