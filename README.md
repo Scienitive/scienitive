@@ -2,7 +2,7 @@
 
 # Altuğ Alpcan Yaşar
 
-I'm Altuğ from Turkey. I'm currently studying at 42 Istanbul. I enjoy solving problems and creating algorithms. I'm also very much into game developing and designing.
+I'm Altuğ from Turkey. I'm currently studying at 42 Istanbul. I enjoy solving problems and creating algorithms. I'm also very much into game development / designing and software development.
 
 Here is some of my works:
 
