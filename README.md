@@ -4,7 +4,9 @@
 
 I'm Altuğ from Turkey. I'm currently studying Computer Engineering at Politecnico di Torino. I enjoy solving problems and creating algorithms.
 
-Here are some games that I developed:
+Checkout my website for more information about me: **<a href="https://alyasar.dev">alyasar.dev</a>**
+
+Also, here are some games that I developed:
 
 ## <a href="https://store.steampowered.com/app/1725990/GASERB">GASERB</a>
 
